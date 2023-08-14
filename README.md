@@ -10,3 +10,14 @@ go prank your friends or something
 Either download the plugin from the [Roblox Marketplace](https://create.roblox.com/marketplace/asset/14429379158/Random-Sound-Plugin) or place the [.lua](The_RSP_Script.lua) file in your plugins directory. 
 <br>
 (To check where it is, press the "Plugins Folder" button in the Plugins section in Roblox Studio.)
+# Credits
+The following Roblox users are the users I got the audio from.
+
+* Roblox
+* SteamTheKitsune
+* FN32DXer
+* TYGGRS
+* ArchivableFest
+* AppleGamer1014
+* Thecomputerfox
+* RayAurus
